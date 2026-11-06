@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { 
+      "source": "/loader", 
+      "destination": "https://raw.githubusercontent.com/dasilvabrayhan-blip/Uzivert-Hub-v4/refs/heads/main/loader_universal.lua" 
+    }
+  ]
+}
